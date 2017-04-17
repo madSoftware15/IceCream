@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/IceCreamDorfner/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cdf613553f74d35c2e19f617952425e7b0bbb4fd">
+        <dex dex="/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/IceCreamDorfner/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_42646bef1d99f8ab81ccfcfaa1841566fa497f45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/IceCreamDorfner/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/Mitch/Documents/LastSemester/Mobile/AndroidStudioProjects/IceCreamDorfner/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3c49100307122977d5b01b01e673dbe1b91c78c9/classes.dex" />
+    </item>
+
+</items>
